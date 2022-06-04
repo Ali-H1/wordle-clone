@@ -1,4 +1,6 @@
 # wordle
+## Demo 
+https://wordle-clone-c857ab.netlify.app/
 
 ## Project setup
 ```
